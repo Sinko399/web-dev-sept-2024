@@ -1,0 +1,13 @@
+*{
+    color: white;
+    background-color: black;
+}
+nav ul li{
+    color: blue;
+}
+main h2{
+    color: green;
+}
+footer p{
+    color: red;
+}
